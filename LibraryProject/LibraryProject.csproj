@@ -10,9 +10,11 @@
   <ItemGroup>
     <None Remove="Interfaces\" />
     <None Remove="Classes\" />
+    <None Remove="Enums\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
     <Folder Include="Classes\" />
+    <Folder Include="Enums\" />
   </ItemGroup>
 </Project>

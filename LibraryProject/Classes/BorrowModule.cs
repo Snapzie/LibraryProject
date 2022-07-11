@@ -1,16 +1,18 @@
 ﻿using System;
+using LibraryProject.Classes;
 namespace LibraryProject
 {
     public class BorrowModule : ISubModule
     {
         private string _name = "Borrow";
-        public string name
+        private LibraryIndexer _indexer;
+
+        public BorrowModule(LibraryIndexer indexer)
         {
-            get
-            {
-                return _name;
-            }
+            this._indexer = indexer;
         }
+
+        public string name => _name;
 
         public string GetInfo()
         {
@@ -19,7 +21,10 @@ namespace LibraryProject
 
         public void RunModule()
         {
-            Console.WriteLine("Ran BorrowModule");
+            Console.WriteLine("Name title to borrow:");
+            string item = Console.ReadLine();
+            bool foundItem = this._indexer.FindItem(item);
+            Console.WriteLine(foundItem);
         }
     }
 }
