@@ -1,0 +1,15 @@
+/Users/casper/Projects/LibraryProject/LibraryProject/bin/Debug/net6.0/LibraryProject
+/Users/casper/Projects/LibraryProject/LibraryProject/bin/Debug/net6.0/LibraryProject.deps.json
+/Users/casper/Projects/LibraryProject/LibraryProject/bin/Debug/net6.0/LibraryProject.runtimeconfig.json
+/Users/casper/Projects/LibraryProject/LibraryProject/bin/Debug/net6.0/LibraryProject.dll
+/Users/casper/Projects/LibraryProject/LibraryProject/bin/Debug/net6.0/LibraryProject.pdb
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.csproj.AssemblyReference.cache
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.AssemblyInfoInputs.cache
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.AssemblyInfo.cs
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.csproj.CoreCompileInputs.cache
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.dll
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/refint/LibraryProject.dll
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.pdb
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/LibraryProject.genruntimeconfig.cache
+/Users/casper/Projects/LibraryProject/LibraryProject/obj/Debug/net6.0/ref/LibraryProject.dll
