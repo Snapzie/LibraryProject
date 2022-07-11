@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{4E382D05-6DF5-4555-B801-3A3AAE00D67B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LibraryProject FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryProject/BorrowModule.cs">
+    <Files>
+      <File FileName="LibraryProject/Program.cs" Line="13" Column="2" />
+      <File FileName="LibraryProject/LibraryApp.cs" Line="21" Column="50" />
+      <File FileName="LibraryProject/ISubModule.cs" Line="12" Column="1" />
+      <File FileName="LibraryProject/SubModule.cs" Line="22" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryProject" expanded="True">
+            <Node name="LibraryProject" expanded="True">
+              <Node name="BorrowModule.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LibraryProject PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
